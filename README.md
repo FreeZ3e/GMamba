@@ -5,8 +5,8 @@ Implementation of GMamba
 
 Create env:
 ```
-conda create -n adaptive_mamba python=3.10 -y
-conda activate adaptive_mamba
+conda create -n gmamba python=3.10 -y
+conda activate gmamba
 ```
 Install pytorch>=2.3, cuda>=12.1, then install dependencies via pip:
 ```
