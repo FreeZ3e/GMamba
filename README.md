@@ -1,4 +1,4 @@
-# GMamba-1126
+# GMamba
 Implementation of GMamba
 
 ## Env
